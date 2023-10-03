@@ -14,7 +14,7 @@
     "jsstore": "^4.0.0"
   },
   "devDependencies": {
-    "css-loader": "^0.28.11",
+    "css-loader": "^6.8.1",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^3.2.0",
     "ts-loader": "^4.1.0",
